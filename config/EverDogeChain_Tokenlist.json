@@ -1,0 +1,37 @@
+{
+    "name": "EverDogeChain",
+    "logoURI": "https://raw.githubusercontent.com/EverDogeChain/swap-component/main/token/edc.jpg",
+    "keywords": ["Defi", "everdoge", "blockchain"],
+    "tags": {
+      "defi": {
+        "name": "EDC",
+        "description": "by EverDogeChain"
+      }
+    },
+    "timestamp": "2022-11-23T00:00:00+00:00",
+    "tokens": [
+      {
+        "chainId": 20942,
+        "address": "0x04ddE1fD8d572b6a2ABFDe48aA8720C6Fb738540",
+        "symbol": "Musk",
+        "name": "Musk",
+        "decimals": 18,
+        "tags": ["Musk"],
+        "logoURI": "https://raw.githubusercontent.com/EverDogeChain/swap-component/main/token/musk.png"
+      },
+      {
+        "chainId": 20942,
+        "address": "0xB5E405fDac6C85FE0bD7338da8D9d42C7242FeA3",
+        "symbol": "Moon",
+        "name": "Moon",
+        "decimals": 18,
+        "tags": ["Musk"],
+        "logoURI": "https://raw.githubusercontent.com/EverDogeChain/swap-component/main/token/moon.png"
+      } 
+    ],
+    "version": {
+      "major": 2,
+      "minor": 20,
+      "patch": 0
+    }
+  }
